@@ -1,12 +1,14 @@
 ## Plan for paper review and implementation 
 
-Representation learning
+- Representation learning
 
-Scene Text Detection
+- Scene Text Detection
 
-Scene Text Recognition
+- Scene Text Recognition
 
-Generative model
+- Generative model
+
+- Model Compression
 
 ### Review
 
